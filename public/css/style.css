@@ -1,0 +1,21 @@
+.gambar{
+    width: 100px;
+}
+
+.table > tbody > tr > * {
+    vertical-align: middle;
+}
+
+.d-flex {
+    display: flex;
+} .btn {
+    padding: 16px 36px;
+    border-radius: 10px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #ffffff;
+} .color {
+    background-color: #5454D4;
+} section {
+    padding: 5px 10%;
+}
